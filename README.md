@@ -1,1 +1,2 @@
-# test-test-restful-booker
+# Хлыпало Иван 
+# Тестовое задание (Luxms/ЯСП)
